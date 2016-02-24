@@ -1,0 +1,10 @@
+- Greatly improved performance of all admin tables.
+- Made several improvements to responsive design.
+- Fixed several issues withs ads.
+- Fixed an issue where installation page was not scrollable.
+- Fixed an issue where multi-selecting would not work properly on some servers.
+- Fixed an issue where preview of files that are in trash would not work properly.
+- Fixed an issue where folders were not downloadable on some servers.
+- Fixed an issue where folder renaming would not reflect in breadcrumbs properly.
+- Fixed an issue where site name change in admin area would not affect user dashboard.
+- Fixed an issue where register button would still show in preview page if registration was disabled.
